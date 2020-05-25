@@ -1,16 +1,3 @@
-# handwashapp
+# Hand Wash Timer
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Hand Wash Timer provides a fun and interactive take on the important task of hand washing, which is especially crucial in this trying time. The main feature of the app is to allow users to track the 20 second guidelines, recommended by the [WHO](https://www.who.int/), whilst making the experience exciting with customisable, groovy tunes. Alongside this, the app features a step-by-step guide in the techniques involved in hand washing. In addition, the app features a helpful information pamphlet that sources the UN, CDC, etc. to provide compelling arguments and advice regarding the necessities of handwashing. 
